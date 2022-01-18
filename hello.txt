@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello how are you
 I am going to banglore
+=======
+Hello how are you
+>>>>>>> 7b3fb5df6b987a546f49d9cf42cb80145f9911be
